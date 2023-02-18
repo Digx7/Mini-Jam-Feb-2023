@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Everette/Everette's Test Scene.unity
+- path: Assets/Joseph/Joseph's Test Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
